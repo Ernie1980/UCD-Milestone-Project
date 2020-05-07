@@ -1,0 +1,50 @@
+
+/*--------------------------------------------Fonts*/
+
+@import url('https://fonts.googleapis.com/css?family=Advent-Pro:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+
+
+
+
+/*--------------------------------------------Colors*/
+
+/* ----------------------------------------Special paddings/margins/text */
+
+/*--------------------------------------------Heading*/
+
+
+.front-container {
+    height: 100vh;
+    background: url('../images/logo1.jpg') no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 90%);
+}
+
+/*--------------------------------------------Hover.css*/
+
+/*--------------------------------------------Section Classes*/
+
+/*--------------------------------------------Section Contact-Enquiry*/
+
+/*--------------------------------------------Section Application form*/
+
+/*--------------------------------------------Section Feedback*/
+
+
+
